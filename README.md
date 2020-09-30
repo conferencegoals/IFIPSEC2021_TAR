@@ -1,2 +1,2 @@
-# WACV2021
-WACV 2021 TAR: Transfer learning-based Autoencoder with Residuals
+# WACV2021_TAR
+Towards Generalized Model to Detect Deepfake in the Wild: A Practical Approach using Transfer Learning based Autoencoder with Residuals
