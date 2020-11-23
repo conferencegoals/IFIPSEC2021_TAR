@@ -1,2 +1,2 @@
-# WACV2021_TAR
-Towards Generalized Model to Detect Deepfake in the Wild: A Practical Approach using Transfer Learning based Autoencoder with Residuals
+# PAKDD2021_TAR
+Towards Generalized Framework to Detect Deepfakes using Weakly Supervised Learning
