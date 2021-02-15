@@ -1,2 +1,2 @@
 # IFICSEC2021_TAR
-Towards Generalized Framework to Detect Deepfakes using Weakly Supervised Learning
+TAR: Generalized Forensic Framework to Detect1Deepfakes using Weakly Supervised Learning
